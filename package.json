@@ -19,8 +19,6 @@
   "homepage": "https://github.com/drox2014/workflow-simulator#readme",
   "devDependencies": {
     "@types/socket.io-client": "^1.4.32",
-    "esdoc": "^1.0.4",
-    "typedoc": "^0.11.1",
     "typescript": "^2.7.2"
   },
   "dependencies": {
