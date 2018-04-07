@@ -1,5 +1,6 @@
 # Workflow Simulator
-A npm module is to monitor the state changes of chained task in real-time. It also provides an interface to connect with the cloud service which is hosted on http://workflow-simulator.herokuapp.com/.
+
+A clould service and a npm module is to monitor the state changes of chained task in real-time. It also provides an interface to connect with the cloud service which is hosted on http://workflow-simulator.herokuapp.com/.
 
 <blockquote>
     An account created on our cloud service will be required to perform the following tasks.
@@ -128,6 +129,10 @@ client.getAllTasks((err, res) => {
     console.log(res);
 });
 ```
+
+### Advanced guides and docs
+
+You can refer the API on /* url */ for more details
 
 
 
